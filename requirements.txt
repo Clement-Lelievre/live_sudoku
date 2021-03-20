@@ -1,0 +1,13 @@
+###### Requirements without Version Specifiers ######`
+tensorflow
+numpy
+colorama
+opencv-python
+pillow
+sklearn
+
+
+###### Requirements with Version Specifiers ######`
+
+#python 3.6 to 3.8     # due to tensorflow dependency       
+
