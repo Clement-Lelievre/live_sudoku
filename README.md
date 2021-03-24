@@ -9,7 +9,7 @@ I used mainly the following libraries:
 
 Below is a breakdown of the tasks:
 
--a website able to open user's webcam\n
+-a website able to open user's webcam  
 -interact with live stream --> OpenCV python library:
    -image pre-processing (blurring, adaptive thresholding, warp correction etc.)
    -contour finding
