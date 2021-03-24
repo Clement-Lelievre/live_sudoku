@@ -1,4 +1,4 @@
-! [] (.jpg)
+! [] (sudoku_live_solver.JPG)
 
 This project aims at creating a website where the user can scan a sudoku grid via his webcam and quickly view the solution
 
