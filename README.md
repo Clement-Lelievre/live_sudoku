@@ -1,5 +1,10 @@
 This project aims at creating a website where the user can scan a sudoku grid via his webcam and quickly view the solution
 
+I used mainly the following libraries:
+-TensorFlow for digit recognition, on an image dataset I created (~400k images)
+-Threading to spawn multiple threads and speed up the code
+-opencv for the preprocessing
+
 Below is a breakdown of the tasks:
 
 -a website able to open user's webcam 
